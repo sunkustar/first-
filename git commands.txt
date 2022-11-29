@@ -34,3 +34,7 @@ git commit -m "first commit"
 # see commits
  git log
  git log --oneline
+
+ #go back and see
+ 
+ git checkout id 
