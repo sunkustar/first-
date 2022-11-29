@@ -42,3 +42,7 @@ git commit -m "first commit"
 =======
 git commit -m "first commit"
 >>>>>>> parent of a6da9fe (third)
+
+#git delete commit
+git reset id 
+git reset id --hard (perm delete)
