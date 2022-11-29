@@ -1,0 +1,32 @@
+#locating directory
+
+cd C:\Users\Vamsi Krishna\codes\GIT
+
+#start git 
+
+git init
+
+# create a file in that location( only for linux and mac)
+
+touch a.html
+
+
+#to know staus of staging area
+
+git status
+
+# add files to area 
+
+git add filename
+
+git add .
+
+# add all files in directory
+
+# remove file from staging area
+
+git rm --cached filename
+
+#commiting
+
+git commit -m "first commit"
