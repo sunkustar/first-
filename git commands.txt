@@ -29,7 +29,6 @@ git rm --cached filename
 
 #commiting
 
-<<<<<<< HEAD
 git commit -m "first commit"
 
 # see commits
@@ -39,9 +38,6 @@ git commit -m "first commit"
  #go back and see
  
  git checkout id 
-=======
-git commit -m "first commit"
->>>>>>> parent of a6da9fe (third)
 
 #git delete commit
 git reset id 
@@ -54,3 +50,6 @@ git branch branchname
 git branch -a (gives list of branches)
 git checkout branch name(shifts to branch)
 
+#merging
+
+git merge branchname
