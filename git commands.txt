@@ -53,3 +53,8 @@ git checkout branch name(shifts to branch)
 #merging
 
 git merge branchname
+
+#push online 
+
+git push https://github.com/sunkustar/first-.git branchname
+
