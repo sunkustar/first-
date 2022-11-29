@@ -46,3 +46,11 @@ git commit -m "first commit"
 #git delete commit
 git reset id 
 git reset id --hard (perm delete)
+
+# adding branch 1
+git branch branchname
+
+#switching branch 
+git branch -a (gives list of branches)
+git checkout branch name(shifts to branch)
+
