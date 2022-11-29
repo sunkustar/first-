@@ -30,3 +30,7 @@ git rm --cached filename
 #commiting
 
 git commit -m "first commit"
+
+# see commits
+ git log
+ git log --oneline
